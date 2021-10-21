@@ -1,0 +1,92 @@
+[
+    {
+        "id" : 1,
+        "question" : "yes or no?",
+        "answer" : "yes",
+        "Type" : "SA"
+    },
+    {
+        "id" : 2,
+        "question" : "Earth is flat?",
+        "answer" : "yes",
+        "Type" : "SA"
+    },
+    {
+        "id" : 3,
+        "question" : "Moon landing faked?",
+        "answer" : "yes",
+        "Type" : "SA"
+    },
+    {
+        "id" : 4,
+        "question" : "Kennedy assassinated by CIA?",
+        "answer" : "yes",
+        "Type" : "SA"
+    },
+    {
+        "id" : 5,
+        "question" : "Did aliens create the world?",
+        "answer" : "Yes",
+        "Type" : "SA"
+    },
+    {
+        "id" : 6,
+        "question" : "Elon Musk is definitely not an Alien spy?",
+        "answer" : "no",
+        "Type" : "SA"
+    },
+    {
+        "id" : 7,
+        "question" : "News outlets never lie to or manipulate the public?",
+        "answer" : "no",
+        "Type" : "SA"
+    },
+    {
+        "id" : 8,
+        "question" : "Will AI destroy all humans?",
+        "answer" : "yes",
+        "Type" : "SA"
+    },
+    {
+        "id" : 9,
+        "question" : "Did Bigfoot go extinct thousands of years ago?",
+        "answer" : "no",
+        "Type" : "SA"
+    },
+    {
+        "id" : 10,
+        "question" : "Don't you dare say no",
+        "answer" : "no",
+        "Type" : "SA"
+    },
+    {
+        "id" : 11,
+        "question" : "Who created the first airplane: (a)Johnny Cash (b)Wright Brothers (c) DaVinci (d) The Lizard people",
+        "answer" : "d",
+        "Type" : "MC"
+    },
+    {
+        "id" : 12,
+        "question" : "Best president of the US: (a)Washington (b)Trump (c)Kennedy (d)Skouson",
+        "answer" : "d",
+        "Type" : "MC"
+    },
+    {
+        "id" : 13,
+        "question" : "Greatest song of all time: (a)Stairway to heaven (b)Some bullsh$% 2Chainz song (c)Anything from Joji (d)Phantasy Star Online",
+        "answer" : "c",
+        "Type" : "MC"
+    },
+    {
+        "id" : 14,
+        "question" : "What?: (a)go on... (b)shut up (c)23 (d)Bye",
+        "answer" : "c",
+        "Type" : "MC"
+    },
+    {
+        "id" : 15,
+        "question" : "Lamest animal in the world: (a)Turkey (b)Cat (c)Gecko (d)Apple",
+        "answer" : "a",
+        "Type" : "MC"
+    }
+]

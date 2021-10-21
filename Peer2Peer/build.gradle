@@ -1,0 +1,27 @@
+// set as java application
+apply plugin: 'application'
+
+//define main class
+mainClassName = 'Peer2Peer'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.json', name: 'json', version: '20200518'
+}
+
+task p2p(type: JavaExec) {
+  description 'p2p q&a game'
+
+  classpath = sourceSets.main.runtimeClasspath
+
+  main = 'Peer'
+
+  standardInput = System.in
+
+  if(project.hasProperty("nick") && project.hasProperty("port")){
+      args(project.getProperty('nick'), project.getProperty('port'));
+  }
+}
